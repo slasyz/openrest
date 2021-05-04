@@ -1,0 +1,5 @@
+/.idea
+/notes.md
+
+/tools/*
+!/tools/tools.go
